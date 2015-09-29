@@ -1,0 +1,55 @@
+TTP3121 TCP/IP  (Trimester 1, 2015/16)
+MEMBERS:
+1. Soon Wei Yang	  1122701186
+2. Chong Rong Sheng 	  1121116031
+
+
+Task Performed
+1. Study the lab exercises.
+2. Google examples.
+3. Having discussion.
+4. Coding the program.
+
+Tast Distribution
+Soon Wei Yang
+1. Try to do the lab exercises to familiar with client-server.
+2. Doing research
+3. Coding the program.
+4. Write the README file.
+
+Chong Rong Sheng
+1. Having discussion with others
+2. Try to learn how to code the program
+3. Coding
+4. Debugging
+5. Submit the project
+
+
+
+
+
+Instructions:
+1)Download the file , you can either put it in the download or you can move to the desktop
+2)Then, you should compile both the server.c and the client.c
+3)Then, run the server eg-> ./server no need the port number or any another arguments
+4)Then, you also need the run the client eg-> ./client no need the address number or any aother arguments
+5)After that, it will pop out 4 alternative options:
+
+	1.Create the file and the file will send to the server (FILE_OF_SERVER).
+		-ctrl-Z then run the client site again
+	(*Note: creating file should be do at FILE_OF_CLIENT folder)
+
+	2.Download the file and the file will send to the client (FILE_OF_CLIENT).
+		-type the file u want ,then the file will be created
+		-ctrl-Z then run the client site again
+
+
+	3.Create a directory at your home.
+		-view your home to make sure your directory is created
+		-/q quit then run the client site again
+	
+	4.Remove the directory that exist in your home 
+		-view you home to make sure directory is deleted
+		-/q quit then run the client site again.
+
+	
